@@ -1,0 +1,29 @@
+{
+  "name": "tttwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite"
+      
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-TechTonics/tttwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Team-TechTonics/tttwebsite/issues"
+  },
+  "homepage": "https://github.com/Team-TechTonics/tttwebsite#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
