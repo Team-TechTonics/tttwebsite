@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "dev": "vite",
-  "build": "node ./node_modules/vite/bin/vite.js build"
-},
+    "dev": "vite",
+    "build": "node ./node_modules/vite/bin/vite.js build"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Team-TechTonics/tttwebsite.git"
@@ -24,6 +24,7 @@
     "react-dom": "^19.2.4"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
     "vite": "^7.3.1"
   }
 }
