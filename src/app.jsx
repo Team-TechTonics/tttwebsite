@@ -28,7 +28,7 @@ export default function App() {
 
   return (
     <main>
-      {/* HERO VIDEO ONLY */}
+      {}
       <section className="hero">
         <video
           ref={videoRef}
@@ -40,10 +40,10 @@ export default function App() {
         />
       </section>
 
-      {/* SCROLL SPACE FOR SCRUB */}
+      
       <section className="scroll-space" />
 
-      {/* CONTENT STARTS AFTER VIDEO */}
+     
       <section className="content">
         <h2>Who We Are</h2>
         <p>
